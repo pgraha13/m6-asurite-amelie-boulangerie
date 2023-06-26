@@ -3,6 +3,11 @@
     line-height: 1.5;
 }
 
+html {
+    display: table;
+    margin: auto;
+}
+
 body { 
     background-color: #F28095;
     margin-top: 0;
