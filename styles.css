@@ -98,6 +98,7 @@ p, ul {
 
 p {
     margin-left: 32px;
+    text-align: left;
 }
 
 ul {
