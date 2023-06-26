@@ -37,6 +37,10 @@ h1 {
     text-align: left;
 }
 
+h2 {
+    text-align: left;
+}
+
 #grid-container {
     width: 1000px;
     text-align: center;
