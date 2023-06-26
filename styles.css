@@ -103,6 +103,7 @@ p {
 ul {
     margin-left: 16px;
     text-align: left;
+    white-space:nowrap;
 }
 
 address {
